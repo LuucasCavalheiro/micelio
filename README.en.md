@@ -18,8 +18,10 @@ The city wakes up at 6:00. Always at 6:00. In the hospital basement, a giant fun
 |---|---|
 | Move | A / D or ← / → |
 | Jump | Space or W |
+| Crouch | S or ↓ |
 | Drop through a platform | S + jump |
 | Attack | J, X or click |
+| Reload | R |
 | Switch weapon | Q or 1–9 |
 | Use medkit | H |
 | Open chest / door | E |
@@ -34,12 +36,14 @@ Outskirts → Abandoned House → Street of the Dead → Apartment Building → 
 
 - A barricade on the Street of the Dead can only be cleared with the double jump, found at the top of the building.
 - The hospital only opens with the access card carried by the Colossus, the miniboss in the square.
-- There are three hidden treasures, two of them behind cracked walls that break when attacked.
+- There are hidden rooms behind cracked walls that break when attacked.
+- Artifacts scattered around the city give permanent bonuses: health, damage, bigger magazines, faster reloads, extra XP, better healing and the double jump.
 
 ## Systems
 
-- **Weapons:** Knife, Ritual Dagger, 9mm Pistol, Shotgun, Submachine Gun, Fire Axe, .44 Magnum, Assault Rifle, Combat Scythe and Lunar Scythe. They come from chests or monster drops.
-- **Infinite ammo** for firearms.
+- **Weapons:** Knife, Ritual Dagger, 9mm Pistol, Shotgun, Submachine Gun, Fire Axe, .44 Magnum, Assault Rifle, Combat Scythe and Lunar Scythe. They come from chests, which roll their contents at random, or from monster drops.
+- **Infinite ammo** for firearms, but with magazines: an empty gun reloads by itself, and R reloads on demand. Fire rate, magazine size and reload time vary per weapon.
+- **Crouching** makes you a smaller target and lowers your line of fire, which lets you hit low-crawling monsters.
 - **Per-weapon levels:** each weapon earns its own XP and gains +12% damage per level.
 - **Health bar only:** no mana. Medkits are scarce and must be rationed.
 - **Time loop:** when you die, you return to the last anchor clock with the same levels, weapons and items. Enemies respawn.
