@@ -13,7 +13,7 @@ O Micélio está crescendo de oito salas para uma cidade inteira. As etapas abai
 - [ ] **História:** arquivos e notas espalhados pela cidade, que mudam conforme os loops passam
 - [ ] **Cidade viva:** a cidade fica mais infestada a cada tantos loops, com infectados simples e avançados
 - [ ] **O lacre:** o caminho até o fungo fica selado, e abrir exige cinco peças espalhadas pela cidade
-- [ ] **Distritos:** Periferia, Residencial, Comercial, Área Nobre, Industrial e Centro
+- [ ] **A cidade inteira:** quatro quadrantes de dificuldade (fácil, médio, difícil e extremo) em volta da Praça do Centro, com o hospital no alto
 - [ ] **Dungeons com chefe próprio:** supermercado, delegacia, fábrica, prédio em quarentena
 - [ ] **Áreas opcionais:** shopping center e aeroporto, com as melhores recompensas
 - [ ] **Novos inimigos:** variações de cidadãos infectados e policiais armados
